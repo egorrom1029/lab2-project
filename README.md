@@ -1,5 +1,3 @@
 # lab2-project
 
-## First commit
-
-## TEST
+## FIRST COMMIT
